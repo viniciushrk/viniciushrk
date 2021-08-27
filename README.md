@@ -1,5 +1,19 @@
 🖐 Olá, me chamo Vinicius da Rosa Pereira
 
+Sou desenvolvedor há mais de 4 anos, sou formado em técnico em informática, atualmente me formando em Engenharia da Computação;
+Tenho experiência com Laravel, React, React Native e Asp.net Core;
+
+🎓 Certificação
+CSD = Certified Scrum Developer (Scrum Alliance)
+
+Experiência Profissional
+
+## Secretária de Justiça do Estado de Rondônia - 2 anos 
+### Experiência: Desenvolvimento com laravel para sistemas internos
+
+## Superintendência Estadual de Tecnologia da Informação e Comunicação de Rondônia - SETIC - 6 meses
+### Experiência: Desenvolvimento com Asp.net Core para sistemas do estado
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciushrk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,13 +31,7 @@
 </div>
  
  <div> 
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/viniciushrk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:viniciusrosa444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciusrosapereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/viniciushrk/viniciushrk/blob/output/github-contribution-grid-snake.svg)
- 
+   <a href="https://www.instagram.com/viniciushrk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:viniciusrosa444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/viniciusrosapereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
