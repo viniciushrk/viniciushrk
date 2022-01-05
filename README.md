@@ -8,11 +8,11 @@ CSD = Certified Scrum Developer (Scrum Alliance)
 
 Experiência Profissional
 
-## Secretária de Justiça do Estado de Rondônia - 2 anos 
-### Experiência: Desenvolvimento com laravel para sistemas internos
+ Secretária de Justiça do Estado de Rondônia - 2 anos 
+ Experiência: Desenvolvimento com laravel para sistemas internos
 
-## Superintendência Estadual de Tecnologia da Informação e Comunicação de Rondônia - SETIC - 8 meses
-### Experiência: Desenvolvimento com Asp.net Core para sistemas do estado
+ Superintendência Estadual de Tecnologia da Informação e Comunicação de Rondônia - SETIC - 8 meses
+ Experiência: Desenvolvimento com Asp.net Core para sistemas do estado
 
  <div>
   <a href="https://github.com/viniciushrk">
