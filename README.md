@@ -1,18 +1,17 @@
-🖐 Olá, me chamo Vinicius da Rosa Pereira
+🖐 Hello, My name is Vinicius da Rosa Pereira
 
-Sou desenvolvedor há mais de 4 anos, sou formado em técnico em informática, atualmente me formando em Engenharia da Computação;
-Tenho experiência com Laravel, React, React Native e Asp.net Core;
+Developer for more than 4 years, I graduated in computer science, currently graduating in Computer Engineering; I have experience with PHP (with Laravel framework) and C# (with Asp.net Core framework)
 
-🎓 Certificação
-CSD = Certified Scrum Developer (Scrum Alliance)
+🎓 CSD Certification = Certified Scrum Developer (Scrum Alliance)
 
-Experiência Profissional
+Professional experience
 
- Secretária de Justiça do Estado de Rondônia - 2 anos 
- Experiência: Desenvolvimento com laravel para sistemas internos
+Secretary of Justice of the State of Rondônia - 3 years Experience: Development of a complete web system (frontend and backend), for internal people and financial management, using MVC, developed in the laravel framework.
 
- Superintendência Estadual de Tecnologia da Informação e Comunicação de Rondônia - SETIC - 8 meses
- Experiência: Desenvolvimento com Asp.net Core para sistemas do estado
+
+Rondônia State Superintendence of Information and Communication Technology - SETIC - 2 years Experience: Development of a web system with ASP.NET Core, based on Clean Architecture, using Scrum as an agile framework, in addition to development, maintenance and creation of new features in the existing wordpress portal.
+
+Experience with CI/CD using Gitlab CI with Openshift. Using standard unit and integration tests, and code quality analysis with SonarQube.
 
  <div>
   <a href="https://github.com/viniciushrk">
